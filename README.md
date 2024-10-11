@@ -1,14 +1,14 @@
 # Eco Fashion Insights 2024
 
-**Overview**
+**Overview:**
 This project explores the latest trends in sustainable fashion for 2024, focusing on the environmental impact and innovative practices in the industry. The analysis includes factors such as sustainability ratings, material types, carbon footprint, and eco-friendly manufacturing processes. The goal is to provide insights into emerging trends and how brands are adopting eco-friendly practices.
 
-**Key Features**
+**Key Features:**
 -Data Analysis: A detailed examination of sustainable fashion variables, including sustainability ratings, material types, and environmental impact metrics.
 -Data Visualization: A variety of charts and graphs to visualize key trends and patterns in sustainable fashion practices.
 -Insights: Identification of trends and correlations between eco-friendly practices and their impact on the fashion industry.
 
-**Installation and Usage**
+**Installation and Usage:**
 1. Clone the repository:
 
 
